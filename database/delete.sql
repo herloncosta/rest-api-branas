@@ -1,0 +1,1 @@
+delete from blog.posts where id = $1;
